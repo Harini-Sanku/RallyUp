@@ -1,0 +1,9 @@
+{
+  "name": "RallyUp Sports Community",
+  "short_name": "RallyUp",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D151B",
+  "theme_color": "#C6F36B",
+  "description": "Find players. Book courts. Play together."
+}
